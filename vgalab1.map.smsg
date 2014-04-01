@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at vga_sync.v(41): Always Construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at vga_sync.v(69): Always Construct contains both blocking and non-blocking assignments
